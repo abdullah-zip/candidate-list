@@ -1,0 +1,20 @@
+{
+  "candidates": [
+    {
+      "id": "candidate1",
+      "name": "Suletta Mercury",
+      "description": "Backend Engineer",
+      "pictureUrl": "https://i.imgur.com/tU2qyIw.png"
+    },
+    {
+      "id": "candidate2",
+      "name": "Miorine Rembran",
+      "description": "Frontend Engineer"
+    },
+    {
+      "id": "candidate3",
+      "name": "Nika Nanaura",
+      "description": "Mechanical Engineer"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "id": "candidate1",
+      "name": "Jotaro Kujo",
+      "description": "Backend Engineer",
+      "pictureUrl": "https://i.imgur.com/oq2LgJz.png"
+    },
+    {
+      "id": "candidate2",
+      "name": "Robert E.O. Speedwagon",
+      "description": "Frontend Engineer"
+    },
+    {
+      "id": "candidate3",
+      "name": "Joseph Joestar",
+      "description": "Mechanical Engineer",
+      "pictureUrl": "https://i.imgur.com/oGCvUd1.png"
+    },
+    {
+      "id": "candidate4",
+      "name": "Giorno Giovanna",
+      "description": "Frontend Engineer",
+      "pictureUrl": "https://i.imgur.com/J3sLOuM.png"
+    }
+  ]
+}
